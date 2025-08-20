@@ -14,6 +14,8 @@ function App() {
   return (
     <>
     <h2>Add Customer</h2>
+
+    <p>Hai Hello How are you</p>
       <h2>Welcome to Vite React Project</h2>
       <Provider store={Store}>
         <AddCustomer/>
